@@ -49,6 +49,19 @@ X, Y, Z列を持つcsvから表面プロットを作成します。
 
 ダウンロードして環境を整えた後、 `main.py`を実行してください。
 
+```terminal
+.
+├── README.md
+├── demo
+├── export
+├── main.py <- これを実行
+├── requirements.txt
+├── sample
+├── screenshot
+└── surfaceplot
+
+```
+
 
 
 # Note
