@@ -9,7 +9,7 @@ X, Y, Z列を持つcsvから表面プロットを作成します。
 | 2.0   | 0.0   | 7.0   |
 | ...   | ...   | ...   |
 
-![screenshot1](/Users/shiyun/python_project/SurfacePlot/screenshot/screenshot1.png)
+![screenshot1](/screenshot/screenshot1.png)
 
 # Description
 
@@ -28,7 +28,7 @@ X, Y, Z列を持つcsvから表面プロットを作成します。
 
 
 # Demo
-![demo](/Users/shiyun/python_project/SurfacePlot/demo/demo.gif)
+![demo](/demo/demo.gif)
 
 
 
