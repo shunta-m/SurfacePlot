@@ -47,7 +47,9 @@ X, Y, Z列を持つcsvから表面プロットを作成します。
 
 # Install
 
+`main.py`と`surfaceplot`フォルダがコードです。
 ダウンロードして環境を整えた後、 `main.py`を実行してください。
+サンプルcsvはsampleフォルダ内に入っています。
 
 ```terminal
 .
@@ -56,9 +58,9 @@ X, Y, Z列を持つcsvから表面プロットを作成します。
 ├── export
 ├── main.py <- これを実行
 ├── requirements.txt
-├── sample
+├── sample <- サンプルcsv有り
 ├── screenshot
-└── surfaceplot
+└── surfaceplot <- コード有り
 
 ```
 
