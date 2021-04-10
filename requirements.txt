@@ -1,0 +1,15 @@
+certifi==2020.12.5
+colorcet==2.0.6
+numpy==1.20.1
+pandas==1.2.3
+param==1.10.1
+pgcolorbar==1.1.0
+pyct==0.4.8
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.8.1
+pyqtgraph==0.11.1
+python-dateutil==2.8.1
+pytz==2021.1
+scipy==1.6.1
+six==1.15.0
